@@ -1,11 +1,8 @@
-[![MasterHead](https://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg)](https://tasnimayan.com)
+[![MasterHead](https://github.com/tasnimayan/tasnimayan/blob/main/Slider-Banner-Programming-Image-.jpg)](https://tasnimayan.com)
 
 <h1 align="center">Hi 👋, I'm Tasnim Ayan</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img  align="right" alt="Coding" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnimayan&label=Profile%20views&color=0e75b6&style=flat" alt="tasnimayan" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasnimayan" alt="tasnimayan" /></a> </p>
+<img align="right" alt="Coding" height="300" src="https://github.com/tasnimayan/tasnimayan/blob/main/image_of_programmer2.jpg">
 
 - 🔭 I’m currently working on **Travel Vibe**
 
@@ -16,6 +13,9 @@
 - 📫 How to reach me **tasnimayan22@gmail.com**
 
 - ⚡ Fun fact **I love to travel.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnimayan&label=Profile%20views&color=0e75b6&style=flat" alt="tasnimayan" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasnimayan" alt="tasnimayan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
