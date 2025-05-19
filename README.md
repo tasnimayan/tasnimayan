@@ -4,11 +4,11 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" height="300" src="https://github.com/tasnimayan/tasnimayan/blob/main/image_of_programmer2.jpg">
 
-- 🔭 I’m currently working on **Travel Vibe**
+- 🔭 I’m currently working on **Oikkogram**
 
 - 🌱 I’m currently learning **Automation using Python**
 
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js, Python and C.**
+- 💬 Ask me about **JavaScript, React, Node.js, Next.js, Express.js, Graphql, N8N, Windmill.dev, Python and C.**
 
 - 📫 How to reach me **tasnimayan22@gmail.com**
 
